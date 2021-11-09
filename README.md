@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @Rkern91!
--
-- 👀 I’m interested in growing my abilities with PHP, JS, jQuery, PostgreSQL, MySQL, NodeJS, React, C++, Flutter, Kotlin. 
-- 🌱 I’m currently learning Git Tools by creating this repository commiting the first files and projects. 
-- 📫 If want to share any improvements or suggestion mail me at 156999@upf.br or add me (RKern91) on Instagram.
